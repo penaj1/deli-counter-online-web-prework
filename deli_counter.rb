@@ -1,6 +1,6 @@
 # Write your code here.
 def line(katz_deli)
   katz_deli = []
-  puts "The line is currently empty.""The line is currently empty."
+  puts "The line is currently empty."
 end
 
